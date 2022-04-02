@@ -1,0 +1,11 @@
+.postDiv {
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.gridkoro {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,11 @@
+#post {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.postStyle {
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
